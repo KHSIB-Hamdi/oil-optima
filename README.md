@@ -1,4 +1,8 @@
-# Oil Optima
+<p align="center">
+  <img src="docs/Oil%20Optima.png" alt="Oil Optima logo" width="180">
+</p>
+
+<h1 align="center">Oil Optima</h1>
 
 A Flask web application for a fuel and oil distribution company (PGS), combining an operations
 dashboard with a set of pre-trained machine-learning models. It brings tank monitoring, demand
@@ -190,3 +194,9 @@ server and addressing the security items below.
 The HTML/CSS user interface is derived from the "Klinik" HTML template. Its license terms are in
 `templates/LICENSE.txt` and require the attribution link to be preserved — please read that file
 before altering or removing template credits.
+
+---
+
+<p align="center">
+  Built with ❤ by <a href="https://github.com/KHSIB-Hamdi">Hamdi KHSIB</a>
+</p>
