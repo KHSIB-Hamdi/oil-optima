@@ -1,0 +1,36 @@
+# --- Secrets ---
+.env
+.env.local
+*.pem
+*.key
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Runtime-generated artifacts (recreated by the app) ---
+static/forecast_plot.png
+static/database/clients_feedback.xlsx
+
+# --- Uploaded biometric face images (PII) ---
+data/Faces/*
+!data/Faces/.gitkeep
+
+# --- Large media: kept locally, too big for git (see docs/README.md) ---
+*.mp4
+docs/Rapport_PGS-Final.pdf
+
+# --- Superseded / unreferenced model artifacts (kept locally, see archive/README.md) ---
+archive/

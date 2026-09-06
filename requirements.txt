@@ -1,0 +1,25 @@
+# Dependencies derived from the import statements in app.py.
+# Versions are intentionally unpinned: the original environment was an Anaconda
+# install on another machine and the exact versions used are not recorded.
+# Pin these once a known-good environment is established.
+
+Flask
+Flask-MySQLdb
+python-dotenv
+pandas
+numpy
+matplotlib
+requests
+openpyxl
+scikit-learn
+scipy
+statsmodels
+xgboost
+tensorflow
+opencv-python
+pdfplumber
+textblob
+langdetect
+transformers
+torch
+google-generativeai
