@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/Oil%20Optima.png" alt="Oil Optima logo" width="180">
+  <img src="docs/Oil%20Optima.png" alt="Oil Optima — Waste Oil Recovery" width="420">
 </p>
 
 <h1 align="center">Oil Optima</h1>
