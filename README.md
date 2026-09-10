@@ -4,6 +4,25 @@
 
 <h1 align="center">Oil Optima</h1>
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white">
+  <img alt="Jinja2" src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&amp;logo=jinja&amp;logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white">
+  <img alt="statsmodels" src="https://img.shields.io/badge/statsmodels-3F5D7D?style=flat-square">
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-0073B7?style=flat-square">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white">
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white">
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white">
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white">
+</p>
+
 A Flask web application for a fuel and oil distribution company (PGS), combining an operations
 dashboard with a set of pre-trained machine-learning models. It brings tank monitoring, demand
 forecasting, fleet logistics, customer-feedback analysis and a document-grounded chatbot together
